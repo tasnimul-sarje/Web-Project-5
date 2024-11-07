@@ -1,0 +1,76 @@
+body{
+	background-color:#acb7ae;
+}
+
+
+.ol{
+	color:blue;
+	-webkit-color:red;
+	-moz-color:red;
+}
+
+.ado{
+	width:30%;
+	height:200px;
+}
+
+.vdo{
+	width:60%;
+	height:500px;
+}
+
+
+.map{
+	width:50%;
+	height:300px;
+	border:0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.gojol{
+	width:30%;
+	height:300px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.fl{
+    color: blue;
+    font-weight: bold;
+}
+
+table,
+th,
+tr,
+td {
+    border: 2px solid black;
+}
+
+th {
+    font-weight: bold;
+    color: red;
+}
+
+
+.wrapper{
+	width:50%;
+	margin:0 auto;
+	border:5px solid #ddd;
+}
+
+.first_name{
+	width:50%;
+	height:25 px;
+}
+
+.box{
+	border:5px solid red;
+	width:200px;
+	padding:20px 50px 20px 50px;
+	margin:40px 60px;
+}
